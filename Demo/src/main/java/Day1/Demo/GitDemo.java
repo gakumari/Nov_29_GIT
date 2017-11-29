@@ -19,5 +19,9 @@ public class GitDemo {
 		
 		
 	}
+	public void show()
+	{
+		System.out.println("Branch");
+	}
 
 }
