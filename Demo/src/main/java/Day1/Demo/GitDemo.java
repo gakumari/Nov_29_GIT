@@ -15,6 +15,7 @@ public class GitDemo {
 	private static void Greetings() {
 		
 		System.out.println("Hi");
+		System.out.println("Good Morning");
 		
 		
 	}
