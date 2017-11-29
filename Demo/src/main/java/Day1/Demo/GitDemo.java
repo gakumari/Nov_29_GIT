@@ -8,11 +8,11 @@ public class GitDemo {
 
 	public static void main(String args[])
 	{
-		Greetings();
+		hellow1();
 		
 	}
 
-	private static void Greetings() {
+	private static void hellow1() {
 		
 		System.out.println("Hi");
 		System.out.println("Good Morning");
